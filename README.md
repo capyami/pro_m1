@@ -91,7 +91,7 @@ Feel free to enrich your output data with any data you may find relevant (e.g.: 
 
 - [DBeaver](https://dbeaver.io/)
 
-- [SQL Alchemy](https://docs.sqlalchemy.org/en/13/intro.html)
+- [DuckDB](https://duckdb.org/)
 
 - [Requests](https://requests.readthedocs.io/)
 
